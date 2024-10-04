@@ -61,4 +61,5 @@
   publisher = {GitHub},
   journal = {GitHub repository},
   howpublished = {\url{https://github.com/GDSC-CNU/practical-deep-learning}}
-}```
+}
+```
